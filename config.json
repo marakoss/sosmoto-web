@@ -1,0 +1,7 @@
+{
+  "name": "SOS Moto App Backup Configuration",
+  "configuration": {
+    "primaryApiUrl": "https://motosos.cz/api/"
+    "backupApiUrl": "https://api.motoprerov.cz/api/"
+  }
+}
